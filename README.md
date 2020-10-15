@@ -1,8 +1,8 @@
 # PDSFM-Vocoder
 
-Synthesized samples and code for the paper SFNet: A computationally efficient source filter model based neural speech synthesis
+Synthesized samples and code for the paper A probabilistic dual source filter model of speech
 
-synthesized samples can be found here:https://araomv.github.io/SFNet/
+synthesized samples can be found here:https://araomv.github.io/PDSFM-Vocoder/.
 
 Codes:
 
